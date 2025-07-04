@@ -1,0 +1,5 @@
+OBSERVER 1 ARCHIVO: tsc <archivo>.ts -w
+
+INICIALIZAR TS: tsc -init
+
+HABILITAR OBSERVER (con ts inicializado): tsc -w
