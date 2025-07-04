@@ -16,10 +16,12 @@ Este es un curso de TypeScript que estoy realizando desde el canal de YouTube de
 
 ## ENG
 
-1. **<ins>First Section:</ins>** The first
+1. **<ins>First Section:</ins>** The first section of the course is in the "00_intro" folder, in this section the following topics were seen:
+- Installation and basic use of TS
+- Observer Mode
 
 ## ESP
 
-1. **<ins>First Section:</ins>** La primera sección del curso esta en la carpeta "00_intro", en esta sección se vieron los siguientes temas:
+1. **<ins>Primera Seccion:</ins>** La primera sección del curso esta en la carpeta "00_intro", en esta sección se vieron los siguientes temas:
 - Instalación y uso básico de TS
 - Modo Observador
