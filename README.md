@@ -3,8 +3,12 @@
 **[ENG]**
 This is a TypeScript course I'm taking through the [SergieCode](https://www.youtube.com/@SergieCode) YouTube channel. My goal is to learn it so I can move on to Angular and be able to create full-stack projects alongside Spring.
 
+- [Link to annotations in Notion (Only Spanish)](https://persistent-visor-d69.notion.site/TypeScript-desde-CERO-2267e0fba8568073bdf8ede3f765742c?pvs=73)
+
 **[ESP]**
 Este es un curso de TypeScript que estoy realizando desde el canal de YouTube de [SergieCode](https://www.youtube.com/@SergieCode). Mi meta es aprenderlo para pasar a Angular y poder realizar proyectos fullstack junto a Spring.
+
+- [Link a anotaciones de notion](https://persistent-visor-d69.notion.site/TypeScript-desde-CERO-2267e0fba8568073bdf8ede3f765742c?pvs=73)
 
 ---
 
